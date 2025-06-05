@@ -1,2 +1,2 @@
 # Ray tracer in cpp
-Using the 
+Using the walnut template. 
